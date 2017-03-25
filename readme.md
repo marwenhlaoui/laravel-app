@@ -6,7 +6,7 @@ start your code without any problem
 
 Open your terminal/git bash here:
 ```git
-git clone https://github.com/marwenhlaoui/laravel-zero.git project-name 
+git clone https://github.com/marwenhlaoui/laravel-app.git project-name 
 ```
 Next open your project folder  
 ```git
